@@ -65,8 +65,8 @@ At **Cleon**, we help SMEs and enterprises accelerate their digital transformati
 
 <!-- Nhớ thay 'your-github-username' bằng tên tài khoản GitHub thật của bạn -->
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=quangbahoa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangbahoa&layout=compact&theme=tokyonight" />
 </div>
 
 ---
