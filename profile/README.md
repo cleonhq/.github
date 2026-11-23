@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Le Duy Quang 👋</h1>
-  <h3>Chief Executive Officer (CEO) & Software Developer at <a href="https://cleon.vn" target="_blank">Cleon JSC</a></h3>
-  <p>Building scalable software architectures while driving business growth & digital transformation.</p>
+  <h3>Software Developer at <a href="https://cleon.vn" target="_blank">Cleon JSC</a></h3>
+  <p>Building scalable web architectures, high-performance applications & reliable cloud infrastructure.</p>
 
   <p>
     <a href="https://cleon.vn" target="_blank">
@@ -21,25 +21,22 @@
 
 ### 👨‍💻 About Me
 
-I am the **Chief Executive Officer (CEO)** and a **Software Developer** at **Cleon Joint Stock Company (Cleon JSC)** — a Vietnam-based digital agency and technology solutions provider established in 2018.
+I am a **Software Developer** at **Cleon Joint Stock Company (Cleon JSC)** — a Vietnam-based digital agency and technology solutions provider.
 
-Wearing both the executive and engineering hats allows me to bridge the gap between **business strategy** and **technical execution**. At Cleon, I lead company operations and product vision while staying hands-on with system architecture, web development, and cloud infrastructure to deliver seamless, all-in-one digital ecosystems for businesses.
+I focus on engineering end-to-end web solutions, designing resilient system architectures, and managing cloud server infrastructure. My goal is to write clean, maintainable code that powers seamless digital experiences and high-traffic platforms.
 
-- 🏢 **Role:** CEO & Developer @ [Cleon JSC](https://cleon.vn) (Hanoi, Vietnam)
-- 💻 **Engineering Focus:** Full-Stack Web Development, System Architecture, Cloud/VPS Infrastructure & Automation
-- 🎯 **Executive Focus:** Business Strategy, Digital Transformation, Operational Excellence & Growth
-- 💡 **Motto:** *"Write clean code, build scalable systems, and create measurable business value."*
+- 💻 **Role:** Software Developer @ [Cleon JSC](https://cleon.vn) (Hanoi, Vietnam)
+- 🔧 **Core Focus:** Full-Stack Web Development, System Architecture, Cloud/VPS Infrastructure & Automation
+- 💡 **Philosophy:** *"Write clean code, optimize performance, and build systems that scale."*
 
 ---
 
-### 🚀 What We Build at Cleon JSC
+### 🚀 What I Work On at Cleon JSC
 
-At **Cleon**, we empower SMEs and enterprises to build, manage, and scale their digital assets without fragmentation:
-
-- 🌐 **Custom Web & Software Development:** High-performance, SEO-optimized, and W3C-standardized web applications tailored for conversion and scalability.
-- ☁️ **Cloud Hosting & Server Infrastructure:** Dedicated, high-uptime Cloud/VPS environments optimized for speed, security, and heavy traffic.
-- ⚙️ **Digital Asset Management:** Centralized web administration, security hardening, and continuous technical optimization.
-- 📈 **Data-Driven Digital Marketing:** Performance growth strategies backed by technical SEO and analytics.
+- 🌐 **Custom Web & Application Development:** Building fast, responsive, SEO-ready, and W3C-standardized web platforms.
+- ☁️ **Cloud & Server Infrastructure:** Configuring, deploying, and optimizing Linux/VPS environments for high availability and security.
+- ⚙️ **System Maintenance & Optimization:** Performance tuning, database optimization, security hardening, and technical troubleshooting.
+- 🤖 **Workflow Automation:** Developing internal tools and scripts to streamline deployment and digital asset management.
 
 ---
 
@@ -79,9 +76,8 @@ At **Cleon**, we empower SMEs and enterprises to build, manage, and scale their 
 
 ### 🤝 Let's Connect
 
-Whether you want to talk code, system architecture, tech leadership, or potential business collaborations, feel free to reach out:
+Feel free to reach out if you want to discuss code, web architecture, open-source projects, or technical collaborations:
 
-- 🌐 **Company Website:** [https://cleon.vn](https://cleon.vn)
 - 🐙 **GitHub:** [@quangbahoa](https://github.com/quangbahoa)
-- 📍 **Location:** Trau Quy, Gia Lam, Hanoi, Vietnam
-- 📞 **Hotline:** +84 84 262 5858
+- 🌐 **Website:** [https://cleon.vn](https://cleon.vn)
+- 📍 **Location:** Hanoi, Vietnam
